@@ -7,4 +7,4 @@
    4.学生可以通过虚拟仿真实验室模拟真实实验，仔细观察实验的过程和细节，完成各种预定的实验教学项目，因此实验教学的灵活性和交互性大大增强。<br/>
  ![](https://raw.githubusercontent.com/dcy1995/dcy/master/2.png)<br/>
  ![](https://raw.githubusercontent.com/dcy1995/dcy/master/1.png)<br/>
- ![](3.JPG)<br/>
+ ![](https://raw.githubusercontent.com/dcy1995/dcy/master/3.jpg)<br/>
