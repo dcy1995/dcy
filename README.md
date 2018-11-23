@@ -26,6 +26,7 @@
  SFX 合成实验与各类化学类课程的联系
   
 ## 4.SFX相关成果与授权专利<br/>
+   ![image](https://raw.githubusercontent.com/dcy1995/dcy/master/10.png)<br/> 
    ![image](https://raw.githubusercontent.com/dcy1995/dcy/master/6.png)<br/> 
    ![image](https://raw.githubusercontent.com/dcy1995/dcy/master/7.png)<br/> 
    ![image](https://raw.githubusercontent.com/dcy1995/dcy/master/8.png)<br/>
